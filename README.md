@@ -40,6 +40,8 @@ pio device monitor
 
 Saiba mais sobre o platformio.io em [platformIO](https://platformio.org/)
 
+Lista de placas para inserir no platformio.ini [boards](https://docs.platformio.org/en/latest/boards/)
+
 Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias. Juntos, podemos tornar este boilerplate ainda mais útil e robusto para a comunidade de desenvolvedores Arduino.
 
 Divirta-se codificando!
